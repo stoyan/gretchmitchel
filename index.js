@@ -13,7 +13,6 @@ const names = [
   'Fender',
   'Fernandes',
   'Fullerton',
-  'George',
   'Gibson',
   'Gitano',
   'Godin',
@@ -35,16 +34,16 @@ const names = [
   'Mesa',
   'Mitchell',
   'Ovation',
-  'Paul',
+  'Paul', // Les Paul, PRS
   'Peavey',
   'Peerless',
-  'Reed',
-  'Rich',
+  'Reed', // PRS
+  'Rich', // B.C. Rich
   'Rickenbacker',
   'Samick',
   'Schecter',
   'Seagull',
-  'Smith',
+  'Smith', // PRS
   'Strat',
   'Takamine',
   'Taylor',
