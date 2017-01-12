@@ -1,0 +1,11 @@
+{
+  "name": "gretchmitchel",
+  "version": "1.0.2",
+  "description": "Guitarist's Pseudonym Generator",
+  "main": "index.js",
+  "author": "Stoyan Stefanov",
+  "license": "ISC",
+  "bin": {
+    "gretchmitchel": "./bin/cli.js"
+  }
+}
