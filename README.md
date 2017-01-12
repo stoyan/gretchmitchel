@@ -10,7 +10,7 @@ $ npm install -g gretchmitchel
 
 # Usage in your scripts
 
-```
+```js
 const gretchmitchel = require('../index.js');
 console.log(gretchmitchel()); // Gretch Mitchel or some other cool name
 ```
