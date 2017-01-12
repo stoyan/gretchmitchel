@@ -64,7 +64,11 @@ function one() {
 }
 
 function two() {
-  return one() + ' ' + one();
+  const namer = [one(), one()];
+  if (namer[1].length < namer[0].length) {
+    namer.reverse();
+  }
+  return namer.join(' ');
 }
 
 // export {two};
