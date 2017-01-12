@@ -1,6 +1,6 @@
 {
   "name": "gretchmitchel",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Guitarist's Pseudonym Generator",
   "main": "index.js",
   "author": "Stoyan Stefanov",
